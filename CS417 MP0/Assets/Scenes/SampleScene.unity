@@ -251,7 +251,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Teleport
   action: {fileID: 225684736}
   teleportLocation: {x: 20, y: 20, z: 40}
-  teleportRotation: {x: 0, y: 45, z: 0}
+  teleportRotation: {x: 0, y: 225, z: 0}
   originalLocation: {x: 0, y: 0, z: 0}
 --- !u!114 &225684736
 MonoBehaviour:
@@ -595,7 +595,7 @@ MonoBehaviour:
   m_text: 'Controls
 
 
-    Button A - Teleport
+    Button Y - Teleport
 
     Button B - Switch light color
 
